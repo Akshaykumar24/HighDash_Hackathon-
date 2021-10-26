@@ -40,7 +40,7 @@ We are team HighDash and we’ve developed a product named Streamline. As we kno
 
 - Download the Zip or clone the repository
 ``` bash
-git clone https://github.com/Rushikesh2503/HighDash_Hackathon.git
+git clone https://github.com/Akshaykumar24/HighDash_Hackathon.git
 ```
 - Go to the client folder and do npm install.
 - Do npm start 
@@ -66,8 +66,8 @@ Find our project presentation [here](https://www.linkedin.com/posts/rushikeshbam
 
 ## Our Team
 
+* Akshaykumar Purad
 * Rushikesh Bambadkar
 * Mahesh Gupta
-* Akshay Kumar
 * Deependra Negi
 
